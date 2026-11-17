@@ -1,0 +1,51 @@
+{
+  "name": "pavan-agent-skills",
+  "description": "Centralized cross-harness skill registry and continuous learning hub for AI agents",
+  "repository": "https://github.com/pavankondapuram/pavan-agent-skills.git",
+  "owner": "Pavan Kondapuram",
+  "lastUpdated": "2026-11-17T10:30:00.000Z",
+  "skills": [
+    {
+      "name": "continuous-integration",
+      "version": "1.0.0",
+      "path": "continuous-integration/SKILL.md",
+      "description": "4-Tier quality gate, statutory math verification, automated VP9 WebM encoding, and reverse-chronological Playwright HTML reports."
+    },
+    {
+      "name": "evidence-collation",
+      "version": "1.0.0",
+      "path": "evidence-collation/SKILL.md",
+      "description": "VP9 WebM transcoding, screenshot synchronization, and structured evidence-manifest.json generation."
+    },
+    {
+      "name": "agile-pm",
+      "version": "1.0.0",
+      "path": "agile-pm/SKILL.md",
+      "description": "Agile PM for AI teams: sprint planning, GCA-X ticket decomposition, and Given/When/Then acceptance criteria."
+    },
+    {
+      "name": "impeccable",
+      "version": "1.0.0",
+      "path": "impeccable/SKILL.md",
+      "description": "Frontend UI/UX design, tokens, motion, accessibility, and responsive layouts."
+    },
+    {
+      "name": "plan-review",
+      "version": "1.0.0",
+      "path": "plan-review/SKILL.md",
+      "description": "Multi-perspective PRD and architectural plan review across Founder, Engineering, and UX dimensions."
+    },
+    {
+      "name": "retro",
+      "version": "1.0.0",
+      "path": "retro/SKILL.md",
+      "description": "Sprint and milestone retrospective engine analyzing delivery velocity and continuous improvements."
+    },
+    {
+      "name": "ship",
+      "version": "1.0.0",
+      "path": "ship/SKILL.md",
+      "description": "Production release gatekeeper, pre-flight smoke tests, version bumps, and edge deployment verification."
+    }
+  ]
+}
