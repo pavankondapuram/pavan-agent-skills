@@ -3,7 +3,7 @@
   "description": "Centralized cross-harness skill registry and continuous learning hub for AI agents",
   "repository": "https://github.com/pavankondapuram/pavan-agent-skills.git",
   "owner": "Pavan Kondapuram",
-  "lastUpdated": "2026-11-17T10:30:00.000Z",
+  "lastUpdated": "2026-11-24T22:28:00.000Z",
   "skills": [
     {
       "name": "continuous-integration",
@@ -46,6 +46,18 @@
       "version": "1.0.0",
       "path": "ship/SKILL.md",
       "description": "Production release gatekeeper, pre-flight smoke tests, version bumps, and edge deployment verification."
+    },
+    {
+      "name": "llm-resilient-routing",
+      "version": "1.0.0",
+      "path": "llm-resilient-routing/SKILL.md",
+      "description": "Multi-provider fallback chains, Thompson-sampling bandit endpoint ranking, sliding-window RPM/RPD/TPM/TPD rate-limit accounting, and tool-call rescuing."
+    },
+    {
+      "name": "hive-agent-orchestration",
+      "version": "1.0.0",
+      "path": "hive-agent-orchestration/SKILL.md",
+      "description": "Multi-agent office and hive orchestration, single-writer file-based mailboxes, context saturation compacting, 3-tier circuit breakers, and bounded human escalation."
     }
   ]
 }

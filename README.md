@@ -17,6 +17,8 @@ Whenever any agent in any workspace solves a defect, discovers an edge case, or 
 | **`plan-review`** | `1.0.0` | Architecture & PRD Review | Multi-perspective plan review stress-testing assumptions across Founder/CEO, Tech Lead, and UX angles before coding begins. |
 | **`retro`** | `1.0.0` | Continuous Improvement | Sprint and milestone retrospectives, commit analysis, delivery velocity tracking, and process improvement recommendations. |
 | **`ship`** | `1.0.0` | Release Management | Production deployment gatekeeper, pre-flight smoke tests, version bumps, changelogs, and edge deployment verification (e.g. Cloudflare Pages). |
+| **`llm-resilient-routing`** | `1.0.0` | LLM Gateway & Resilient Routing | Multi-provider fallback chains, Thompson-sampling bandit endpoint ranking, sliding-window RPM/RPD/TPM/TPD rate-limit accounting, and tool-call rescuing. |
+| **`hive-agent-orchestration`** | `1.0.0` | Multi-Agent Coordination | Multi-agent office and hive swarm orchestration, single-writer file-based mailboxes, context saturation compacting, 3-tier circuit breakers, and bounded human escalation. |
 
 ---
 
